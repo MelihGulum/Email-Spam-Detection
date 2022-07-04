@@ -26,5 +26,5 @@ We have trained the data set with the machine learning algorithms.
 Below, for each algorithm you can see the accuracy.
 
 <p align="center"> 
- <img src="(https://user-images.githubusercontent.com/81585804/177146582-ba4661f5-d6c1-4f41-801c-5829414f614e.png" width="450" height="350">
+ <img src="https://user-images.githubusercontent.com/81585804/177146582-ba4661f5-d6c1-4f41-801c-5829414f614e.png" width="450" height="350">
 </p>
