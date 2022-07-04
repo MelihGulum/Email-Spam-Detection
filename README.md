@@ -7,7 +7,7 @@ Dataset consist of two classes. These are "ham" and "spam". We have **4825** ham
 <img src="https://user-images.githubusercontent.com/81585804/177144875-67ea0a37-2040-4839-bf13-5c2aeb57e2f5.png" width="350" height="250">
 </p>
 
-The following two figures show **WordCloud** for spam and ham.
+The following two figures show **WordCloud** representation for spam and ham.
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/81585804/177145653-a8f04fd5-3983-4283-bc6f-93d372e6d5c4.png" width="425" height="350">
