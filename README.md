@@ -28,3 +28,17 @@ Below, for each algorithm you can see the accuracy.
 <p align="center"> 
  <img src="https://user-images.githubusercontent.com/81585804/177146582-ba4661f5-d6c1-4f41-801c-5829414f614e.png" width="450" height="350">
 </p>
+
+You can also do your predicts for each algorithm or you can choose one for prediction.
+
+```
+MultinomialNB() This is a Real email 
+
+SVC(C=1000, gamma=0.001) This is a Real email 
+
+KNeighborsClassifier(n_neighbors=3) This is a Real email 
+
+DecisionTreeClassifier() This is a Real email 
+
+RandomForestClassifier() This is a Real email 
+```
